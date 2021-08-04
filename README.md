@@ -10,10 +10,10 @@ This repo contains the code for the project: Neural Network Solver for Shock Wav
 
 # Libraries:
 
-Tensorflow 2.3.0 and Compatible CUDA and CUdnn Version (https://www.tensorflow.org/install/source_windows)
-Optuna for Bayesian Optimization
-Numpy
-Matplotlib
-Scipy
-Numba
-Pandas
+1. Tensorflow 2.3.0 and Compatible CUDA and CUdnn Version (https://www.tensorflow.org/install/source_windows)
+2. Optuna for Bayesian Optimization
+3. Numpy
+4. Matplotlib
+5. Scipy
+6. Numba
+7. Pandas
