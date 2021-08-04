@@ -7,3 +7,13 @@ This repo contains the code for the project: Neural Network Solver for Shock Wav
 2. **PINN_KFR** is the main code for the neural network solver. Change the name of param_value (amp_{}alpha_{}) to load and train for different alpha values. Hyperparameters can also easily be changed.
 3. If hyperparameters are to be tuned, go to **PINN_KFR_opt** code.
 4. Rest of the files are there to support these main codes.
+
+# Libraries:
+
+Tensorflow 2.3.0 and Compatible CUDA and CUdnn Version (https://www.tensorflow.org/install/source_windows)
+Optuna for Bayesian Optimization
+Numpy
+Matplotlib
+Scipy
+Numba
+Pandas
